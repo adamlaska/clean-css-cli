@@ -37,7 +37,7 @@
     "chokidar": "^3.5.2",
     "clean-css": "^5.3.0",
     "commander": "7.x",
-    "glob": "^7.1.6"
+    "glob": "^7.2.3"
   },
   "devDependencies": {
     "http-proxy": "1.x",
