@@ -42,7 +42,7 @@
   "devDependencies": {
     "http-proxy": "1.x",
     "jshint": "^2.13.0",
-    "source-map": "0.5.x",
+    "source-map": "0.7.4",
     "vows": "^0.8.3"
   },
   "engines": {
